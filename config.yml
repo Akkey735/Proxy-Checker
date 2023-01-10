@@ -1,0 +1,2 @@
+threads: 100 # Maximum number of threads available for proxy checking
+timeout: 5.0 # Proxy and connection timeout

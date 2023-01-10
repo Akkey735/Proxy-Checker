@@ -1,0 +1,5 @@
+pyyaml
+httpx
+numpy
+colorama
+pyfiglet
